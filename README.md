@@ -26,7 +26,7 @@ npm i react-dnd-block -S
 | hint | 拖拽区域底部提示段落 | string | '可随意拖拽改变标签顺序' |
 | onChange | 拖拽排序及删除操作 | function(e){} | - |
 
-> 彩色块数据
+> 拖拽块数据
 
     data: [],  注入组件数据
     
